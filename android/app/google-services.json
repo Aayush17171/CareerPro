@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "235930776421",
+    "firebase_url": "https://realflutter-bd749-default-rtdb.firebaseio.com",
+    "project_id": "realflutter-bd749",
+    "storage_bucket": "realflutter-bd749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235930776421:android:0df8b446467c6be39ae78c",
+        "android_client_info": {
+          "package_name": "com.example.newtesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAowRH6V8z4Dm69zWArp0Xmq6cmM4uEfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
